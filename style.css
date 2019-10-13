@@ -1,0 +1,20 @@
+h1{
+    font-family: Segoe UI;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+
+#lorem {
+    color:yellow;
+}
+
+p{
+    color:blue;
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+underline-text{
+    text-decoration: underline;
+}
